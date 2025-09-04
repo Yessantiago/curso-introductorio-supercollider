@@ -229,7 +229,7 @@ g.(3, 2); // -> 9.5 (thingA = 3, thingB = 2);
 (
 // Función que calcula el promedio y dice si aprobó o reprobó
 ~evaluarAlumno = {
-    arg calificaciones;
+    arg calificaciones, cadena; //como usuario se lo mandar
     var promedio, resultado;
 
     // 1. Calcular el promedio (completar)

@@ -11,7 +11,8 @@ SuperCollider es un entorno de programación de código abierto, que permite la 
 
 ---
 ## 📝 Sesiones
-- [ ] Sesión 1 *02/sep/2025* - [Fundamentos de programación](/contenido-teorico/fundamentos.md)   
+- [ ] Sesión 1 *02/sep/2025* - [Fundamentos de programación](/contenido-teorico/fundamentos.md) 
+- [ ] Sesión 2 *03/sep/2025* - [Programación Orientada a Objetos](/sesion-02/s2.md)
 
 ---
 ## 📥 Instalación de SuperCollider
@@ -40,3 +41,11 @@ La versión actual es la *3.14.0*, aunque también es posible descargar versione
 - [SuperCollider](https://www.facebook.com/groups/supercollider/) - Grupo en inglés acerca de SuperCollider
 - [SC Women](https://www.facebook.com/groups/653670444775977/) - Grupo de mujeres que usan SuperCollider, personas no binarias también son bienvenidas
 - [SuperCollider ES](https://www.facebook.com/groups/109527502188/) - Grupo de SuperCollider situado en México, Latinoamérica y España.
+
+---
+## 🎵 Ejemplos de SuperCollider
+- [Haywire Frontier](https://nathanho.bandcamp.com/album/haywire-frontier)
+- [fully synthesized atmospheric dnb](https://youtu.be/XNI-cHtTc1g?si=dBGVlHTUrhUI_XeR)
+- [Sans Trou Ni Fin Soundtrack](https://joowonpark.bandcamp.com/album/sans-trou-ni-fin-soundtrack)
+- [Florian Woeber: Studie 51/10000 - Musikalisches Würfelspiel](https://youtu.be/_UMzhQ7c1uw?si=NfXmtRureyuDHJ-P)
+- [MM – Stochastic Bell Clouds](https://patchstorage.com/mm-stochastic-bell-clouds/)
