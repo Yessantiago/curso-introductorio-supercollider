@@ -11,9 +11,9 @@ SuperCollider es un entorno de programación de código abierto, que permite la 
 
 ---
 ## 📝 Sesiones
-- [ ] Sesión 1 *02/sep/2025* - [Fundamentos de programación](/contenido-teorico/fundamentos.md) 
-- [ ] Sesión 2 *03/sep/2025* - [Programación Orientada a Objetos](/sesion-02/s2.md)
-- [ ] Sesión 3 *04/sep/2025* -[Propiedades del sonido, Routines y Patterms](/sesion-03/s3.md)
+- [ ] Sesión 1 *02/sep/2025* - [Fundamentos de programación](/sesion-01) 
+- [ ] Sesión 2 *03/sep/2025* - [Programación Orientada a Objetos](/sesion-02)
+- [ ] Sesión 3 *04/sep/2025* -[Propiedades del sonido, Routines y Patterms](/sesion-03)
 
 ---
 ## 📥 Instalación de SuperCollider
